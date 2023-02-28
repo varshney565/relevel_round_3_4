@@ -1,0 +1,23 @@
+{
+  "name": "relevel_round_3_4",
+  "version": "1.0.0",
+  "description": "code for relevel round 3 and 4",
+  "main": "index.js",
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "relevel"
+  ],
+  "author": "shivam varshney",
+  "license": "ISC"
+}
